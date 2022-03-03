@@ -1,0 +1,16 @@
+E:\desktop\newpgm\RFP-Day6-PracticeProblems\RFP-Day6-PracticeProblems\bin\Debug\net5.0\RFP-Day6-PracticeProblems.exe
+E:\desktop\newpgm\RFP-Day6-PracticeProblems\RFP-Day6-PracticeProblems\bin\Debug\net5.0\RFP-Day6-PracticeProblems.deps.json
+E:\desktop\newpgm\RFP-Day6-PracticeProblems\RFP-Day6-PracticeProblems\bin\Debug\net5.0\RFP-Day6-PracticeProblems.runtimeconfig.json
+E:\desktop\newpgm\RFP-Day6-PracticeProblems\RFP-Day6-PracticeProblems\bin\Debug\net5.0\RFP-Day6-PracticeProblems.runtimeconfig.dev.json
+E:\desktop\newpgm\RFP-Day6-PracticeProblems\RFP-Day6-PracticeProblems\bin\Debug\net5.0\RFP-Day6-PracticeProblems.dll
+E:\desktop\newpgm\RFP-Day6-PracticeProblems\RFP-Day6-PracticeProblems\bin\Debug\net5.0\RFP-Day6-PracticeProblems.pdb
+E:\desktop\newpgm\RFP-Day6-PracticeProblems\RFP-Day6-PracticeProblems\obj\Debug\net5.0\RFP-Day6-PracticeProblems.csproj.AssemblyReference.cache
+E:\desktop\newpgm\RFP-Day6-PracticeProblems\RFP-Day6-PracticeProblems\obj\Debug\net5.0\RFP-Day6-PracticeProblems.GeneratedMSBuildEditorConfig.editorconfig
+E:\desktop\newpgm\RFP-Day6-PracticeProblems\RFP-Day6-PracticeProblems\obj\Debug\net5.0\RFP-Day6-PracticeProblems.AssemblyInfoInputs.cache
+E:\desktop\newpgm\RFP-Day6-PracticeProblems\RFP-Day6-PracticeProblems\obj\Debug\net5.0\RFP-Day6-PracticeProblems.AssemblyInfo.cs
+E:\desktop\newpgm\RFP-Day6-PracticeProblems\RFP-Day6-PracticeProblems\obj\Debug\net5.0\RFP-Day6-PracticeProblems.csproj.CoreCompileInputs.cache
+E:\desktop\newpgm\RFP-Day6-PracticeProblems\RFP-Day6-PracticeProblems\obj\Debug\net5.0\RFP-Day6-PracticeProblems.dll
+E:\desktop\newpgm\RFP-Day6-PracticeProblems\RFP-Day6-PracticeProblems\obj\Debug\net5.0\refint\RFP-Day6-PracticeProblems.dll
+E:\desktop\newpgm\RFP-Day6-PracticeProblems\RFP-Day6-PracticeProblems\obj\Debug\net5.0\RFP-Day6-PracticeProblems.pdb
+E:\desktop\newpgm\RFP-Day6-PracticeProblems\RFP-Day6-PracticeProblems\obj\Debug\net5.0\RFP-Day6-PracticeProblems.genruntimeconfig.cache
+E:\desktop\newpgm\RFP-Day6-PracticeProblems\RFP-Day6-PracticeProblems\obj\Debug\net5.0\ref\RFP-Day6-PracticeProblems.dll
